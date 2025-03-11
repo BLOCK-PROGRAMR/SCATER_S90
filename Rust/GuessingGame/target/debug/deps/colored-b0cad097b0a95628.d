@@ -1,0 +1,12 @@
+/home/nithin/Solana/SCATER_S90/Rust/GuessingGame/target/debug/deps/libcolored-b0cad097b0a95628.rmeta: /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs
+
+/home/nithin/Solana/SCATER_S90/Rust/GuessingGame/target/debug/deps/libcolored-b0cad097b0a95628.rlib: /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs
+
+/home/nithin/Solana/SCATER_S90/Rust/GuessingGame/target/debug/deps/colored-b0cad097b0a95628.d: /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs /home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs
+
+/home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs:
+/home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs:
+/home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs:
+/home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs:
+/home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs:
+/home/nithin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs:
