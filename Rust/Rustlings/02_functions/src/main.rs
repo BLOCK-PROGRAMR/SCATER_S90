@@ -105,7 +105,7 @@ mod tests {
 
         assert_eq!([2, 3, 4], nice_slice);
     }
-    #[test]
+    #[test] 
     fn indexing_tuple() {
         let numbers = (1, 2, 3);
         let second =numbers.1;
