@@ -10,11 +10,11 @@ struct ColorTupleStruct(u8, u8, u8);
 struct UnitStruct;
 
 fn main() {
-    let mut vec = Vec::new();
+    // let mut vec = Vec::new();
 
-    vec.push(22);
-    vec.push(44);
-    vec.push(66);
+    // vec.push(22);
+    // vec.push(44);
+    // vec.push(66);
 
     // let vec = fill_vec(vec);
 
@@ -27,11 +27,12 @@ fn main() {
 //     // println!("{}",data);
 
   // Example instantiations
-  let _color1 = ColorRegularStruct { red: 255, green: 0, blue: 0 };
-  let _color2 = ColorTupleStruct(255, 0, 0);
-  let unit = UnitStruct;
+//   let _color1 = ColorRegularStruct { red: 255, green: 0, blue: 0 };
+//   let _color2 = ColorTupleStruct(255, 0, 0);
+//   let unit = UnitStruct;
 
-  println!("{:?}", unit);
+//   println!("{:?}", unit);
+string_understanding("Hii helloow girls".to_string());
 }
 
 fn fill_vec(mut vec: Vec<i32>) -> Vec<i32> {
@@ -50,6 +51,13 @@ fn string_uppercase( data: String) {
    let  data = data.to_uppercase();
 
 }
+fn string_understanding(data:String){
+    let _data=data;
+    println!("{}",_data);
+    println!("{}",_data.chars().nth(0).unwrap());
+    println!("{}",_data.chars().nth(1).unwrap());
+}
+// test can be written here 
 
 #[cfg(test)]
 mod tests {

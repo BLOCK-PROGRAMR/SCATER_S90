@@ -9,8 +9,22 @@ fn main() {
     // let num: i32 = add_one(6);
     // println!("{}", num);
     // let num2: i32 = add_one_v2(7);
-    // println!("{}", num2);
-    for_loop();
+    // // println!("{}", num2);
+    // for_loop();
+    let result = divide(10, 0);
+    match result {
+        Ok(value) => println!("Result: {}", value),
+        Err(e) => println!("Error: {}", e),
+    }
+}
+
+fn divide(x:i32 ,y:i32)->Result<i32,String>{//use of this result is to handle errors ,how its been working Result is a enum it contains two variants based on the  result of the function it will return i32 or string
+    //syntax ===> Result<success type, error type>
+    if y==0{
+        Err("Cannot divide by zero".to_string())
+    }else{
+        Ok(x/y)
+    }
 }
 
 fn _tuple() {
