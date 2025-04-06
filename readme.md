@@ -11,15 +11,6 @@ I am committing to a **90-day challenge** to master **Solana development** using
 - Explore **Solana security and best practices**.
 - Document daily progress for consistency and learning.
 
-## Progress Log 📅
-| Day | Date       | Activity                                                                     | Key Learnings                                         |
-| --- | ---------- | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 1   | YYYY-MM-DD | Setup Solana CLI, installed Rust, explored Solana program structure.         | Learned Solana architecture and CLI setup.            |
-| 2   | YYYY-MM-DD | Built and deployed a basic Solana program.                                   | Understood Solana accounts and transactions.          |
-| 3   | YYYY-MM-DD | Studied **PDAs (Program Derived Addresses)** and wrote a program using PDAs. | Understood PDAs and their role in Solana development. |
-| 4   | YYYY-MM-DD | Implemented basic token transfer program using **Token Program**.            | Learned SPL token mechanics.                          |
-| 5   | YYYY-MM-DD | Explored **Anchor framework**, rewrote previous programs in Anchor.          | Improved development workflow with Anchor.            |
-_(This table will be updated daily)_
 
 ## Resources Used 📚
 - [Solana Docs](https://docs.solana.com/)
